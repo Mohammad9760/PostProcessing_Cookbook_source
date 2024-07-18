@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Post-Processing Cookbook</title>
+    <link>http://localhost:1313/unity-hdrp/</link>
+    <description>Recent content on Post-Processing Cookbook</description>
+    <image>
+      <title>Post-Processing Cookbook</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>unity-hdrp</language>
+    <lastBuildDate>Tue, 02 Jul 2024 15:24:16 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/unity-hdrp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipe 1: How To Grayscale The Screen in HDRP</title>
+      <link>http://localhost:1313/unity-hdrp/posts/grayscaling/</link>
+      <pubDate>Tue, 02 Jul 2024 15:24:16 +0330</pubDate>
+      <guid>http://localhost:1313/unity-hdrp/posts/grayscaling/</guid>
+      <description>An image can be broken down into two components: the Chroma (Color) and the Luma (Brightness). if we desaturate an image completely (remove color), what is left is the Grayscaled version of that image. some people might refer to grayscale as &amp;ldquo;black and white&amp;rdquo;, however that&amp;rsquo;s not a technically accurate term for that. black and white would suggest that all the pixels of the image is either black or white, the image would be made of only 2 colors (Binary Image).</description>
+    </item>
+  </channel>
+</rss>
